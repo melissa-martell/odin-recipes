@@ -1,0 +1,1 @@
+This is the first project of The Odin Project. It is the index.html of a recipes book.
